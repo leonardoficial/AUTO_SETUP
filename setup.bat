@@ -1,0 +1,2 @@
+CD C:\MERCURY.DEV\AUTO_SETUP
+py .\main.py
